@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The plaine English-man, his discreet advice, in these distracted times. Wherein the prerogative of the King, the priviledges of the Parliament, and the present proceedings of the Army, according to their just interests are justified. Worthy the perusall of all men. This is licenced and published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90738</idno>
+            <idno type="STC">Wing P2361</idno>
+            <idno type="STC">Thomason E412_20</idno>
+            <idno type="STC">ESTC R203170</idno>
+            <idno type="EEBO-CITATION">99863227</idno>
+            <idno type="PROQUEST">99863227</idno>
+            <idno type="VID">115417</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90738)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115417)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E412[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The plaine English-man, his discreet advice, in these distracted times. Wherein the prerogative of the King, the priviledges of the Parliament, and the present proceedings of the Army, according to their just interests are justified. Worthy the perusall of all men. This is licenced and published according to order.</title>
+               </titleStmt>
+               <extent>[2], 7, 10-11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Ley, and are to be sold at his Shop neere Pauls-Chaine,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nouemb: 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115417:1" rendition="simple:additions"/>
+            <p>THE Plaine Engliſh-man, HIS DISCREET ADVICE, in theſe DISTRACTED TIMES.</p>
+            <p>WHEREIN The Prerogative of the KING, the Priviledges of the PARLIAMENT, and the preſent proceedings of the Army, ac<g ref="char:EOLhyphen"/>cording to their juſt intereſts are juſtified.</p>
+            <p>Worthy the peruſall of all men.</p>
+            <p>
+               <hi>This is Licenced and Publiſhed according to Order.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>William Ley,</hi> and are to be ſold at his Shop neere <hi>Pauls</hi>-Chaine. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115417:2"/>
+            <pb n="1" facs="tcp:115417:2"/>
+            <head>The plaine Engliſh-man.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Eloved Countrymen, you muſt expect no rare Oratory, no fine Phraſes, no exordium or de<g ref="char:EOLhyphen"/>claration as the Schoolemen uſe; but onely a piece of his mind who wiſheth well to you all, being dreſt in your native language, and my chiefeſt care is not to uſe gloſſing ſpeeches but to draw out a threed of truth both to your own, and my good; for plaineneſſe is the beſt companion; and if that were more exerciſed, falſhood would be turn'd out of doores like a vagabond, and Sincerity entertain'd like a Prince: from deceipt ſprings contention, but where truth keeps Court within, there will be no ſad effects without. <hi>Cicero</hi> gave this commendation of truth, that it was praiſe-worthy, though no man praiſe it, and I moſt (worthy Country-men) ſhall endea<g ref="char:EOLhyphen"/>vour to narrate it, though I get a ſcratcht face. Conſider how mightily you are degenerated from your firſt Principles; <hi>Eng<g ref="char:EOLhyphen"/>land</hi> was formerly a Scituation of ſtrength, and an Iland that hath defeated the great Armadoes of forraigne Nations; but when we did this we were all united as one man, loving to each other, and Peace was the fruit of this, and happy, nay, double happy is that Nation which injoyeth it: Man is created a ſo<g ref="char:EOLhyphen"/>ciable creature, and God hath ſo bleſt him, that there is no man ſo barren, but he hath ſomething wherewith all to profit others, and every man being imperfect, wee ought to helpe one ano<g ref="char:EOLhyphen"/>ther; but wee inſtead of friends are enemies, inſtead of pre<g ref="char:EOLhyphen"/>ſervers are deſtroyers, <hi>Seneca</hi> ſayth, the neereſt friendſhip is the conjunction of the mind, truely I am of that opinion, where the judgements diſagree, the love cannot be reall; then ſadly may we lament our Land, where ſcarce two men in all things agree
+<pb n="2" facs="tcp:115417:3"/>together, he that was the wiſeſt of all, laid down this, <hi>that a houſe divided cannot ſtand,</hi> that inſtance in particular reacht to the generall, that where there is not a concomitancie among the Governours of a Weale, it will ſuddainly fall like an old buil<g ref="char:EOLhyphen"/>ding, molter away like an aged garment, and as ſoone vaniſh as the rayes of <hi>Titan,</hi> and now (deare Country-men) view in what a laborinth of confuſion, in what a <hi>Chaos</hi> of trouble wee now are in, the Land is ſpoyled, the Rulers rejected, the Subjects re<g ref="char:EOLhyphen"/>bellious, and deſtruction the follower of theſe, puts forward like an armed man, and ſurely it is a great judgement, that <hi>Englands</hi> ſavators ſhall bee its deſtroyers, thoſe that were cho<g ref="char:EOLhyphen"/>ſen for it's good, ſhall work it's ruine. It is the fault of too many States-men, that they reſpect their private intereſt before the publike good. <hi>Anaobarſis</hi> the Phyloſopher ſaid, there was no councell that was good, but what proceeds from the man that diſregards his own ends, and <hi>Plato</hi> commends thoſe that keepe the Common-wealth in Peace by their policie and in the time of warre defend it by their magnanimity. Wee have had wiſe Senators, but as the fineſt cloth is incident to moaths, the hard Iron toruſt, and the moſt curious glaſſe to bee broken, ſo the beſt of men are ſubject to miſhap. Some blame the King, others the Parliament, a third the Army, in truth great ones are corrupt; But wee our ſelves are the cauſe of our own miſerie, from our hatred of one another ſprings our afflictions, and to make the Originall of our diſtreſſe more apparent, wee give ſe<g ref="char:EOLhyphen"/>verall termes of obliquy and diſgrace to each other, to exaſpe<g ref="char:EOLhyphen"/>rate us all to our own ruine. Let us conſider the danger we are in, and ſtand upon our reputation let not other Nations ſay of <hi>England,</hi> that wee could not conquer it, but it will overcome it ſelfe. Caſt your eyes about and ſee what an unuſuall Meta<g ref="char:EOLhyphen"/>morphiſis, a ſtrange Cataſtrophe our Land's become, every one endeavours to bring deſtruction a though moſt proteſt againſt. Our civill warre (which of all warre is the moſt unnaturall) hath in part depopulated our Kingdome but that ſtorme is over, that trouble is vanquiſhed, that judgement is diſſipated, and yet Peace comes not. Argue out the reaſon by love, not by the Sword, with meekeneſſe, not with contention, lay aſide that ſpi<g ref="char:EOLhyphen"/>rit of bitterneſſe, and with joynt conſent indeavour to find out
+<pb n="3" facs="tcp:115417:3"/>the <hi>Achans</hi> of our Common-wealth. Let not the mercy that is beſtowed be repell'd, let not eminent favours be ſlighted, the healing of a Nation deſpiſed, but when any good comes, any love is ſhewed, let it be imbrac'd, for it is my Petition, that diffe<g ref="char:EOLhyphen"/>rences in Religion may not breed factions in the State; for do but conſider againſt whom our enemies were bent, not againſt ſtrangers, not againſt an enemy, not againſt Tyrants, but againſt our Country-men, our friends, our kinſmen, and what greater bonds, what neerer relations then theſe. Let not the head re<g ref="char:EOLhyphen"/>maine as a captive by our jarres, the body as imperfect by our differences, the ſtrength of the Kingdome be imbezell'd by our diſcentions, but let us all in a bond of amity labour to ſettle that Royall Perſon ſo long wiſht for, in his Throne; the Phyloſo<g ref="char:EOLhyphen"/>pher in the firſt Book of his Politicks, proves by foure naturall reaſons, that Princes ought to command, and Subjects to obey; it is likewiſe commanded by God, and ſeeing it is inſtituted by one and confirm'd by the other then as our duty to the firſt, and our obligation to the laſt; we are to maintaine that Govern<g ref="char:EOLhyphen"/>ment: when the courſe of juſtice is ſtopped, it is the time for the foes of the Weale to reigne, and men of bad principles will do no good voluntarily. I feare wee have had too many ſuch ſpirits, which makes the rent wider; yet not ſo wide, but if the King will come and be a nurſing Father, and we ſhall be a happy peo<g ref="char:EOLhyphen"/>ple; ſo the wiſhes of ſome will bee fruſtrated, the expectations of others ſatisfyed, and the generall content of moſt will bee in<g ref="char:EOLhyphen"/>joyed. Yet wee muſt allow of that ſaying of the wiſe man, <hi>In the multitude of Councellours there is ſafety,</hi> experience teach<g ref="char:EOLhyphen"/>eth, for our liberty would have been inthrall'd, tyranny would have been advanced, and oppreſſion the ſhare of it, were not for a Parliament; for as a great ſhip requires a cunning Pilot, and a young traveller a skilfull guide, ſo doth the unweldy body of a State ſtand in need of good Councellours <hi>Soloman</hi> peereleſſe in wiſedome had his Councellours about him, good councell be<g ref="char:EOLhyphen"/>ing much availeable to the Weale, and as it is the ſaying of one. Hee that uſeth many Councels is not eaſily deceived, it is the great Organ of the Common-wealth, nay the very life thereof, but perhaps you will ſay of late the Councell hath been bad, the
+<pb n="4" facs="tcp:115417:4"/>Counſellours have been corrupt, and the effect of theſe hath been naught; true it is, that ſtanding Pooles gather filth, and the fi<g ref="char:EOLhyphen"/>neſt Gold droſſe, and the beſt Iewell is in danger to be ſpoyled, and ſhall wee caſt away thoſe profitable things, becauſe of their diſcommodities, truly hee that would rather dye then uſe water, becauſe it gathers Mud, or refuſe Gold becauſe it catcheth droſſe, or deny a rich Iewell, becauſe it is ſubject to be loſt, you will reckon him to be a Foole, and if wee ſhould refuſe good Coun<g ref="char:EOLhyphen"/>ſell; becauſe ſome of the Counſellours are naught, I ſhould give you ſuch a title, as hee that thinkes to catch a Hare with a Taber doth deſerve, and let us not reject Authority, but ſtrive to purge away the evill members, ſo will Peace come, and the Subjects have content, and the Rulers delight. And ſeeing I am fallen to ſpeake of the Government of the Kingdome, give mee leave a little to ſpeak ſomething boldly by way of caution, to a third predominant party, <hi>viz.</hi> The Army to give them their due, they have done valiantly, behaved themſelves gallant<g ref="char:EOLhyphen"/>ly, and have carryed their buſineſſe wiſely, and if wee ſhould diſ-reſpect them, when they have accompliſht their worke, wee might juſtly bring diſgrace upon our own heads; yet I would not have them like the skittiſh Cow, which having given a good paile of milke, afterwards caſteth it down with her heele; or like the Oſtridge, which having layd her egges, never after regards them; wiſedome will make future actions ſutable to former deeds, underſtanding men will not derogate from the thing they firſt aymed at, they profeſſed their actions were for the good of the Subject, and I hope ſo are their intentions ſtill, and although hypocriſie is ſpun with a very fine thread, yet let us live in hope beyond hope.</p>
+            <p>True it is, wee have a good head, a wiſe body, and a ſtrong foot, yet here is our miſery, our ſore, our diſeaſe, all theſe are ſevered. Gentlemen my Conſcience would give me flatly the lye, if I ſhould not confeſſe this, that variety of colours maketh the beſt ſhew, and all the ſtrings tuned cauſeth the pleaſanteſt muſicke, and a concordance among the Rulers makes the beſt government; but the reaſon why our Governours are diſuni<g ref="char:EOLhyphen"/>ted is, by our diſſentions, our diviſion maketh them ſide into par<g ref="char:EOLhyphen"/>ties,
+<pb n="5" facs="tcp:115417:4"/>even to the hazard of the Land, whereas if we were united, they would bee happy in our conjunction, and wee bleſſed in their agreement; whereas now our Cities are ruined, our treaſure's exhauſted, our trading's decayed, and thoſe things which were the ſinewes of our life are cut off, thoſe great immu<g ref="char:EOLhyphen"/>nities inthrall'd, our plentifull fields droope, our great Cities mourne, becauſe of our rents, and even the ſenceleſſe creatures that poſſeſſe our Land, read a lecture to us of our following mi<g ref="char:EOLhyphen"/>ſery, and ſhall wee bee ſo void of reaſon, as not to ſhun that which bruites fore-tell us.</p>
+            <p>And Country men, let mee premiſe you of that heroick ſpirit that was in our predeceſſors, they were as one man againſt all intruders, hating the very name of a uſurper, they were men that put themſelves forth for their Countries ſervice, but wee act for its ruine; they purchaſed renowne where ever they came, but wee diſgrace; they had the ſpirits of men, but we the hearts of cowards; for if there was any good in us, wee could not behold our State turning our Religion, perverting, our government al<g ref="char:EOLhyphen"/>tering, and wee the cauſe. And yet I cannot but confeſſe, that in thoſe times there was as well the Spider for poiſon, as the Bee for honey, and the cunning Fox as well as the innocent Dove, and men of corrupt principles as well as thoſe worthy men I ſpeake of; yet they were not ſuffered to bee their maſters, and if they did taſt too much of Soveraigetie, yet juſtice did at laſt take hold on them, for the Nobles ſcorn'd it, the Gentry envy'd it, and the Commonaltie hated it, and where there was ſo grand a conſpiracie againſt ſo baſe a thing, doubtleſſe it would down: But it is far different now, for the adverſaries of our Land have many abetters, and Rebellion having ſet up her Standerd, mul<g ref="char:EOLhyphen"/>titudes flock to it, and as if we had loſt our judgements, we en<g ref="char:EOLhyphen"/>deavour to maintaine theſe that are our miſeries.</p>
+            <p>Gentlemen, bee not wrath when you ſee the Grandees of the Kingdome queſtioned, when they are called to an accompt for their carriage, ſo long as they are corrupt; for till it is a plea<g ref="char:EOLhyphen"/>ſure to imbrace thornes, or to carry hot coales in ones hand, or a ſtinging Serpent in ones boſome, then and not till then, can I approve of bad men; for it is they that make the miſchief, that
+<pb n="6" facs="tcp:115417:5"/>raiſe the trouble, that breed the diſtractions, and till theſe are ta<g ref="char:EOLhyphen"/>ken away, you muſt looke for no Peace.</p>
+            <p>But ſhall good men bee ſlighted becauſe ſome are bad, this is that which provokes mee to fury, when I ſee eminent men, wiſe men, deſerving men, turn'd out of Office. I grant, that ſuch things there are, but how will you remedy them, not by drawing a Sword againſt a party ſtronger then your ſelfe; For a wiſe Captaine and a good warrier, will never do ſo; but beſide this, conſider who you engage againſt, who you oppoſe, who you threaten deſtruction to; it is againſt a part of your ſelfe, for this Kingdome is a body Politick, every man is a member, and can the members ſuffer and the body rejoyce, can they bee in miſery and it in delight? No, ſurely no the welfare of every man is concern'd in the whole, and wee ought as fellow members to endeavour the good of all: But ſee moreover, how you put your ſelves out of a capacity to finiſh that you intend, diviſion brings nothing to perfection, danger is an attendant upon contention, and if you look about you, you ſhall find your ſelves almoſt at the brinke of deſtruction; for you are firſt a prey for an enemy, a priſe for famine, a burden to your ſelves; and laſtly, immediate ruine will be your portion if you continue: and if you would a<g ref="char:EOLhyphen"/>mend what you think amiſſe, it is by an agreement a lincking of your ſtrength together, muſt be the meanes, and oh, were but I a good Orator to perſwade you for the beſt, or a skilful Painter to portrayt your miſery, that ſo you might entertain the one, and a<g ref="char:EOLhyphen"/>void the other: but being illiterated in the one, and unskilfull in the other, you muſt take mee as I can beſt deliver my ſelfe, but this by the way, for to proceed further. Let mee tell you, the black and ſwarthy viſage of the other warre makes mee long for Peace; and I thinke it would never be more welcome then now. <hi>Mars</hi> thought <hi>Venus</hi> moſt lovely when ſhee ſate by <hi>Vulcan:</hi> and Peace compared with warre will bee more eſteemed; yet here is our diſeaſe, our ſore, our affliction, that the Veine that is opened bleeds inwardly, and I feare our heart blood is almoſt come out which maketh us dangerous in the one, almoſt incu<g ref="char:EOLhyphen"/>rable in the other, and deſperate in the third; ſo that wee ſtand in need of a Godly Miniſter, a good Chyrurgion, and a wiſe
+<pb n="7" facs="tcp:115417:5"/>Phyſitian, and all theſe wee have and yet help comes not; true<g ref="char:EOLhyphen"/>ly the reaſon is, becauſe wee deſpiſe, diſregard, and reject them all; for Prayer here is ſcolding, for healing hurting, for curing wounding; ſo that when there will bee a period of our miſery none knoweth. Every one prayes for Peace, wiſheth for Peace, and deſire Peace, and yet almoſt none uſeth the meanes; but if any thing is done contrary to their humor, they fly out into extreames, as if ruine did not approach faſt enough, thinke not it is with us as with a Diamond, which lyeth in the fire and is not conſumed, or like the Chriſtiall which toucheth the Toad and is not poyſoned, or the bird <hi>Trochilus,</hi> that liveth in the mouth of the <hi>Crocodile,</hi> and is not ſpoyled; for wee are ſubject to bee conſumed, venomed, and deſtroyed, and many other in<g ref="char:EOLhyphen"/>conveniences beſide theſe; therefore let us not go about to de<g ref="char:EOLhyphen"/>ſtroy our ſelves, you would reckon him a mad man that goeth to make a wound where none is, and him to bee a foole, that had rather have ſickneſſe then health, and yet wee are ſo beſotted to our ruine, that wee move like men void of reaſon.</p>
+            <p>O let not <hi>England</hi> bee branded with ſuch folly, ſtigmatized with ſuch a diſgrace, as to bee guilty of its own deſtruction. And yet a Leopard may as ſoone change his ſpots, and an Ethy<g ref="char:EOLhyphen"/>opian his hiew, before ſome man can alter their diſpoſitions; but I hope I ſhall not find all ſuch crooked Cammocks, ſuch knotty pieces, and of ſuch ſorded natures; for though all men bee made of one mettall, yet they are not caſt in one mould, and though ſome may refuſe this to their ruine, yet others may im<g ref="char:EOLhyphen"/>brace for their good: and ſeeing I have brought you thus farre, give mee leave a little to treſpaſſe upon your patience, doe but conſider the many Widdowes wee have, the many Orphans, in whoſe very faces you may read a Petition for reliefe, the mai<g ref="char:EOLhyphen"/>med Souldiers, whoſe miſery eccho in our eares, and O <hi>Eng<g ref="char:EOLhyphen"/>land</hi> O unhappy <hi>England</hi> is all thy help but a ſigh.</p>
+            <p>And can you behold this, and will you not ſeeke to amend it, truely when I behold the unnaturalneſſe that is amongſt us, I cannot but thinke <hi>Abetto Mejere</hi> and <hi>Ciſſiphons</hi> have taken up their quarters in our Dominions, and that they have a peen jar
+<pb n="10" facs="tcp:115417:6"/>habitation in each mans ſpirit; for the very Heathens have a better agreement then wee; and yet reckon them to bee in ig<g ref="char:EOLhyphen"/>norance and a vaile of obſcurity to bee upon them, and wee in our light, our new light, in our ſhining light, will not ſtrive to hinder thoſe things which in Hirogliphicks ſpeake our ruine; for as if every one was full of Achonite wee ſpill poyſon in one anothers faces, all of us are contriving which way to do the moſt miſchiefe. Oh! Let us not make our miſery an <hi>abbyſſe,</hi> our troubles endleſſe: let not our pleaſures bee an <hi>Adonis</hi> to bewitch us ſo to them; that wee can caſt no affectionate eye upon the publicke.</p>
+            <p>
+               <hi>Fabricius</hi> the Roman was famous becauſe a contemner of riches, but infamy will bee our lot; becauſe wee deſire them to the danger of the State, our Land is a plentifull ſoyle, which makes it worſe to indure extremity, for the fineſt Chriſt all is ſooner crazed then the hard Marble, the fineſt ſilk ſooneſt ſoy<g ref="char:EOLhyphen"/>led, and the ſweeteſt Wine turneth to the ſharpeſt Vinegar, ſo that Kingdome that hath enjoyed Peace for a long time, will bee ſooneſt waſted with warre.</p>
+            <p>There is not the like Land in the world as ours it, wee are at variance amongſt our ſelves, at enmity with our Brethren, and ready to go warre againſt our kinſmen, whereas they are united, joyning together againſt the common adverſary, Oh! let us ſadly lament our Land, for every loue hath its ſalve, every beaſt his cure, the Dog ſurfeting eareth graſſe, and procures his vomit and finds remedy, the Hart beeing wounded, runs to the herb <hi>Dictanuns</hi> and is healed, and hath all theſe help and is there no Balme for <hi>England,</hi> no <hi>Colloquin ida</hi> to purge its Cho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, hath all its Phyſitians given it up as deſperate, doth its States men, its Miniſters, look when it will give the laſt gaſpe, its impoſſi<g ref="char:EOLhyphen"/>ble two contraries can conſiſt in one ſubject, light and darkneſſe are inconſiſtant, fire and water are repugnart and do wee think contention and Peace will linke together, truly if wee do, wee miſtake, for the Sunne and Moone ſhall as ſoone ſtand ſtill, and the heavens alter their courſe, the ebbing and flowing of the Sea ceaſe, before theſe two can agree, feed not your ſelves with
+<pb n="11" facs="tcp:115417:6"/>fancies; dally not too long with edg'd tooles, wade not too farre in the ſtreame, for feare you cannot returne, but let us all Implore the aſſiſtance of the Almighty, and then with love goe to repaire the breaches of our Land. Perhaps you will ſay, it is too late: I muſt confeſſe I feare it, yet I doe not de<g ref="char:EOLhyphen"/>ſpaire of it.</p>
+            <p>Phyſitians ſay ſo long as there is life, there is hope, though our Kingdome is dangerous, yet there is breath; and let us fol<g ref="char:EOLhyphen"/>low that maxime, though wee are unskilfull in the faculty, <hi>The Sicke man knowes best where his paine lyes,</hi> our Miſery is within our ſelves; then let us make knowne our Grievauces by way of Petition to the KING, and the PARLIAMENT, and by way of recommendation to the ARMY; intreating the firſt, to Conſider; the ſecond, to Conſult; the third, to Disband; that ſo the publike Quarrell might bee ſtated, the cauſes of our Afflictions found out; for now every man cryes out blaming ſeverall parties, imputing the Cauſe to this, others to that, and yet truely is ignorant of the Cauſe; Thus (Gentlemen) you ſee in what a condition wee are in by our differences, whereas if they were layd aſide wee might bee in a better eſtate then before.</p>
+            <p>Let us not therefore ſtand in our owne light, but as free borne Engliſhmen pull downe uſurpers, and prevent that which other<g ref="char:EOLhyphen"/>wiſe wee muſt expect; That Iuſtice may have his courſe, and every one his right, that ſo Peace may take its habitation in our Land, which is or at leaſt ſhould bee the cordiall wiſh of every true Engliſh-man.</p>
+            <p>
+               <hi>Vale.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Imprimatur,</hi> JOHN DOVVNAME.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
